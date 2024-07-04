@@ -9,7 +9,7 @@ import java.util.List;
 import ceps.Ceps;
 
 public class Arquivo {
-	private String path = "src\\cep.txt";
+	private String path = "procuraCep-main\\src\\cep.txt";
 	private Long cepBuscado;
 	
 	public Arquivo() {
